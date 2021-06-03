@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyful newes from Holland: shewing, the royall entertainment given by the states of the United Provinces, to the lords embassadours of the Common-wealth of England. Also, the Lord Embassadour St. Johns speech to the high and mighty states of Holland and West-Friezland, at a publike audience at the Hague, in the name and behalf of the Parliament of this Commonwealth. With a perfect narrative of his proceedings, the great danger that he escaped, and the insolent behaviour of the English cavaliers, towards his lordship and his retinue. Together, together [sic] with a declaration of the aforesaid states of Holland and West-Friezland; and the death of the Young Prince of Orange.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87399</idno><idno type="EEBO-CITATION">99865677</idno>
+  <idno type="VID">165832</idno>
+  <idno type="EEBO-PROQUEST">2264206281</idno>
+  
+            <idno type="STC">Wing J1136</idno>
+            <idno type="STC">Thomason E626_18</idno>
+            <idno type="STC">Thomason E626_23</idno>
+            <idno type="STC">ESTC R206549</idno>
+            <idno type="PROQUEST">99865677</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865677e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165832)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[18]; 96:E626[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyful newes from Holland: shewing, the royall entertainment given by the states of the United Provinces, to the lords embassadours of the Common-wealth of England. Also, the Lord Embassadour St. Johns speech to the high and mighty states of Holland and West-Friezland, at a publike audience at the Hague, in the name and behalf of the Parliament of this Commonwealth. With a perfect narrative of his proceedings, the great danger that he escaped, and the insolent behaviour of the English cavaliers, towards his lordship and his retinue. Together, together [sic] with a declaration of the aforesaid states of Holland and West-Friezland; and the death of the Young Prince of Orange.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy E.626[18]: "Ap: [i.e. April] 7". On copy E.626[23]: "Aprill 12. 1651.".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">St. John, Oliver, 1598?-1673.</term>
+               <term type="geographic_name">Netherlands --  Foreign relations --  1648-1714 --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  1649-1660 --  Netherlands --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  Politics and government --  1648-1714 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165832:1"/>
+            <p> JOYFUL NEWES FROM HOLLAND: SHEWING, The Royall Entertainment given by the States of the United Provinces, to the Lords Embassadours of the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>ALSO, The Lord Embassadour St. Johns Speech to the High and mighty States of <hi>Holland</hi> and <hi>West-Friezland,</hi> at a publike Audience at the <hi>Hague,</hi> in the Name and behalf of the Parliament of this Commonwealth.</p>
+            <p>With a perfect Narrative of his Proceedings, the great danger that he escaped, and the insolent behaviour of the English Cavaliers, towards his Lordship and his Retinue.</p>
+            <p>
+               <hi>TOGETHER,</hi> Together with a Declaration of the aforesaid States of <hi>Holland</hi> and <hi>West-Friezland;</hi> And the death of the Young Prince of <hi>Orange.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Robert Wood.</hi> 1651.</p>
+            <pb facs="tcp:165832:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165832:2"/>
+            <head>A true Narrative of the proceedings of the Lord Embassador St. JOHNS, his speech to the High and mighty States of the Uni<g ref="char:EOLhyphen"/>ted Provinces, the great dangers he esca<g ref="char:EOLhyphen"/>ped, and the insolent behaviour of the Ca<g ref="char:EOLhyphen"/>valiers towards his Lordship.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON the 8. of <hi>March,</hi> the Lord S<seg rend="sup">t</seg>
+               <hi>John</hi> (Ambassadour to the Parl. of <hi>England)</hi> set sail from <hi>Gravesend.</hi> On the 9 we came to Anchor near the <hi>Flatts;</hi> that day my L. <hi>Strickland</hi> gave his Excellency a visit, many Gentlemen attended upon his Lordship: M<seg rend="sup">r</seg>
+               <hi>Goodwin</hi> preached in the Forenoon, and M<seg rend="sup">r</seg>
+               <hi>Nie</hi> in the Afternoon, who fitted his matter for the present affairs we are a going about. On the 10 we set sail, and came to an Anchor at <hi>Margets.</hi> On the 11 we set sail; And on the 12 we came to <hi>Goeree</hi> in the morning; and about noon, through the carelesness of our Pilat, we had like to have lost our ship, for she run aground, and strook 8 times, that we thought we should have beaten to pieces: had you been there to have seen what a fright every body was in, you would have blest your self; for all the Gentlemen were ready to skip into the Long-boats, and to be gone ashore, for we were not far off it when it happened; but it pleased God to preserve us, and to bring us off safe.</p>
+            <p>The <hi>Master</hi> gave the ship for lost; In the Afternoon we came to an
+<pb n="2" facs="tcp:165832:3"/> Anchor before <hi>Hellevoet-sluys;</hi> but a little before one of the gunners men, sitting upon a gun to draw it, was beaten off by the main sheet in<g ref="char:EOLhyphen"/>to the sea; and drown'd. On the 13. we went to <hi>Rotterdam,</hi> where we were very nobly entertained by the English Merchants. From thence my Lord (on the 27) took his journey for the <hi>Hague;</hi> and within a mile thereof at a place called the <hi>Horn-bridge,</hi> we were met with 30 Coaches by the Master of the <hi>Ceremonies,</hi> and 2 or 3 Lords, who came to congratulate their Lordships arival into their country: that night we were had to a house that the States had made ready to entertain us in, where we have been feasted for these three dayes at their charges; On the 30. the <hi>Lords Ambassadors</hi> had audience of the States in their <hi>Great Assembly.</hi> Two of the States came to fetch their <hi>Lordships,</hi> about 40 Coaches attending them. As for my <hi>Lords Gentlemen,</hi> whose habit glit<g ref="char:EOLhyphen"/>tered like the glorious Sun, the like hath not been seen these many years: and the Dutch stood amaz'd (lifting up their hands) to see so much gallantry. When the <hi>Lords Ambassadors</hi> were at <hi>Rotterdam,</hi> the Spa<g ref="char:EOLhyphen"/>nish Ambassador sent his Gentleman to their <hi>Lordships</hi> to kisse their hands, and to congratulate their safe <hi>arrival,</hi> and to desire a fair <hi>corre<g ref="char:EOLhyphen"/>spondence</hi> and <hi>understanding</hi> between their <hi>Lordships</hi> and himself, and that as soon as he was come to the <hi>Hague,</hi> he would wait upon them. Their <hi>Lordships</hi> invited him to dine with them, and after dinner sent him back with a complement to the <hi>Hague.</hi>
+            </p>
+            <p>On the 27 the Lords Embassadours journeyed towards the <hi>Hague,</hi> and were met by divers of the States, who welcommed them thither, with exceeding courtesie, attending them to a most sumptuous house which they had caused to be made ready for their entertainment, where for 3 days they were royally feasted: And on the 30 their Lordships had Audience, where the Lord S<seg rend="sup">t</seg>
+               <hi>Johns</hi> spake to the whole Assembly of the States, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>High and Mighty Lords,</salute>
+                        </opener>
+                        <p>THe Parl. of the Common-wealth of <hi>England,</hi> well knowing by the ancient and successive Treaties &amp; Leagues of Amity between <hi>Engl.</hi> and the <hi>Netherlands,</hi> as well before their restitution to their Liberties, as fithence, and by the many and notable assistances given unto them, and sometimes received from them against the enemies of each other, that there hath always been a firm Union, and <hi>constant intercourse</hi> of friend<g ref="char:EOLhyphen"/>ship, and real affections between <hi>England,</hi> and this State.</p>
+                        <pb n="3" facs="tcp:165832:3"/>
+                        <p> And withall considering, that the defence and aid against Forreign Enemies, and the free intercourse of Trade and Traffique (the com<g ref="char:EOLhyphen"/>mon interests of State) that first combined them in this happy league, do still continue, with the accession sithence of the profession of the true Reformed Religion, and of the just Liberties and freedom of the people of equal concernment unto both, more then formerly.</p>
+                        <p>And that God who at first appointed to all people the bounds of their several habitations, by scituation, likeness of Manners, and Dispositions, commodities arising at Sea and Land, shipping and o<g ref="char:EOLhyphen"/>therwise, hath not only enabled them to be more useful unto each for the maintenance of those common interests, than to others, but seems likewise in those regards to put a necessity upon both, to desire and af<g ref="char:EOLhyphen"/>fect the good of both.</p>
+                        <p>And finding by long experience that breaches (sometimes occasio<g ref="char:EOLhyphen"/>ned through mis-understanding) have always produced dammage un<g ref="char:EOLhyphen"/>to both, and likewise regret and impatience, till reconciliation, as if made for meet helps, they could not be well alone.</p>
+                        <p>And further observing, that the signal blessing of Almighty God hath ever accompanied the actions of each undertaker for their wel<g ref="char:EOLhyphen"/>fare, whereby great additions of happiness have been derived unto both, for which they are bound ever to give thanks to God, and were no doubt taken into the consideration of the High and Potent Lords of <hi>Holland,</hi> in their late good and acceptable indeavours for the conti<g ref="char:EOLhyphen"/>nuance of a friendly correspondency between the two States.</p>
+                        <p>As therefore they have cause from hence, so the Parliament accord<g ref="char:EOLhyphen"/>ingly doth desire that this pious and strict confederacy and league of amity; derived from their ancestors unto them, may from themselves be transmitted unto posterity, if God so please, and such is the sin<g ref="char:EOLhyphen"/>cere love and good will which the Parliament of England beareth un<g ref="char:EOLhyphen"/>to their neighbours of the United Provinces, begotten and conserved upon the grounds before expressed, that they are willing to enter in<g ref="char:EOLhyphen"/>to a more intimate alliance, and nearer union with them then former<g ref="char:EOLhyphen"/>ly hath been, whereby a more real and intrinsecal interest of each o<g ref="char:EOLhyphen"/>ther may be contracted for their mutual good.</p>
+                        <p>This the Parliament of the Common-wealth of England, doth by us their Embassadours extraordinary, declare and make tender of un<g ref="char:EOLhyphen"/>to you the High and Mighty Lords the States General of the United <gap reason="illegible" resp="#keyers" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>inces of the Netherlands, and hath given us authority on their wise
+<pb n="4" facs="tcp:165832:4"/> part to bring to effect. And they have chosen this as the most season<g ref="char:EOLhyphen"/>able time to acquaint your Lordships herewithal, when you are met in this great and extraordinary Assembly, to consult (as they sup<g ref="char:EOLhyphen"/>pose) matters of highest importance to your State, and which have been occasioned by remarkable acts of divine providence; And like<g ref="char:EOLhyphen"/>wise when the Commonwealth of England, through the infinit good<g ref="char:EOLhyphen"/>ness of God, is in so peaceable and setled a condition under the pre<g ref="char:EOLhyphen"/>sent Government, and freed in so great a measure as now it is, from Enemies abroad.</p>
+                        <p>And although great alterations of Government (how good and just soever) have always been accompanied with various and sinister con<g ref="char:EOLhyphen"/>structions, tending to the disadvantage of the State concerned, where<g ref="char:EOLhyphen"/>of we know the Netherlands have had experience as well as others, nor can it be otherwise expected, because those without are not so ful<g ref="char:EOLhyphen"/>ly acquainted with the grounds and causes thereof, and by reason of the several Interests, Relations, and Dependencies involved therein, yet considering the place and persons, where and to whom we now speak, and the Declarations of this State made at <hi>Ʋtrecht,</hi> the 23 of January in the year 1579, and in this place the 26 of July, in the year 1581, they thought it not needful to particular upon this subject.</p>
+                        <p>
+                           <hi>My Lords,</hi> In the several and successive mutations of the Affaires and conditions of the Netherlands, the Treaties and Alliances between <hi>England</hi> and Them, have always been continued, and with the greatest expressions of affection from <hi>England,</hi> when this State hath stood in most need, and upon the present alteration in <hi>England,</hi> so happily by the blessing of God ordered for the common good, your Lordships may see cause to continue and improve them to the neerest conjunction, a foun<g ref="char:EOLhyphen"/>dation being thereby laid of making them more durable and advanta<g ref="char:EOLhyphen"/>gious then heretofore, when they depended upon the uncertainties of the Li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, Alliances, Change of Affections, and private Interests of one person.</p>
+                        <p>My Lords, you see the Common-wealth of <hi>England</hi> (notwithstand<g ref="char:EOLhyphen"/>ing the many discouragements they have found, and just cause given them of laying aside the thought of any further motion in this kinde) have begun to you, and in matters of highest concernment unto both; led thereunto (such is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> mercy of God) not out of necessity but choise; this their good will deserves all acceptation on your part, with whom it now rests, and will, they doubt not, produce resoluti<g ref="char:EOLhyphen"/>ons
+<pb n="5" facs="tcp:165832:4"/> answerable and timely, and whatsoever issue it shall please God in his wisdom to give, they shall always have the satisfaction of ha<g ref="char:EOLhyphen"/>ving done what be fitted them, and what the welfare of the true Re<g ref="char:EOLhyphen"/>formed Religion, and the other great and common interests of both States obliged them to do.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>The Speech was made in</hi> English, <hi>and after delivered to them in</hi> Dutch, <hi>and in</hi> English; <hi>the Assembly having given his Lordship thanks dismissed him, and it is believed will give him a very satisfactory Answer; they desiring no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing but a continuation of the ancient Amity which hath been between</hi> England <hi>and that State.</hi>
+            </p>
+            <p>But for all this, since we came into these parts, many of our Gentl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>men have been affronted by the English-Cavaliers, who are very nu<g ref="char:EOLhyphen"/>merous in these parts. As we came along in our Coaches, they called Traytors, Rebels, and S<seg rend="sup">t</seg>
+               <hi>Johns</hi> bastards, and some spit in our faces: Likewise my Lord <hi>Strickland</hi> sending his Page home to his own house, they had like to have stoned him. But the States having notice there<g ref="char:EOLhyphen"/>of, immediatly sent the Lord <hi>Cats</hi> to publish this ensuing <hi>Proclamation,</hi> in the name of the States of <hi>Holland</hi> and <hi>West-Friezeland.</hi>
+            </p>
+            <closer>
+               <dateline>Hague, <date>the 3<seg rend="sup">d</seg> of April, New style; 1651.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Sir, at the close of my Letter it was reported that the young Prince of <hi>Orange</hi> died, the truth of which, I will certifie you in my next.</p>
+            </postscript>
+         </div>
+         <div type="document">
+            <head>A perfect Copy of the Declaration of the States of <hi>Holland</hi> and <hi>West-Freez<g ref="char:EOLhyphen"/>land,</hi> touching the Lords Embassadours of the Parliament of <hi>England, &amp;c.</hi>
+            </head>
+            <p>ALthough that according to the Law of all people, and amongst <hi>Barbarians,</hi> the persons of Embassadours, Residents, Agents, and other such like publike Ministers, of Kings, Princes and Republiques, are every where held in such high esteem; that they are not affronted, or offended, harmed or any ways damnified by any whatsoever; but on the contrary, they use to be respected, highly esteemed and ho<g ref="char:EOLhyphen"/>noured: Yet nevertheless, so it is that we are informed, that some
+<pb n="6" facs="tcp:165832:5"/> discontented, unruly, or stubborn men dare do the contrary, unto such publike Ministers as are sent to this State, and do reside here in our Provinces, wherein we being willing to provide, have found good, by this our present proclamation, expresly to Ordain, Enact, and sharply to forbid; as we do Ordain, Enact, and by these presents sharply forbid, That no body of any Nation, quality, state, or condi<g ref="char:EOLhyphen"/>tion soever they be, do affront, or offend, damnifie, harm, hurt, vili<g ref="char:EOLhyphen"/>fie, or taunt at by word, deed, or tumult, or in any manner directly or indirectly howsoever, the Embassadours, Residents, Agents, or o<g ref="char:EOLhyphen"/>ther Ministers of Kings, Princes, Republique or others, bearing the name of publique Ministers, any wise in their persons, Gentlemen, Servants, Followers, Lodgings, Coaches, or any thing to them be<g ref="char:EOLhyphen"/>longing, or any on them depending, upon penalty of incurring our highest indignation, and of corporal punishment, as violaters and infringers of the Laws of all people, and disturbers of the common peace, all according to the exigency and circumstance of the case, or<g ref="char:EOLhyphen"/>dering on the contrary of what is aforesaid, all the inhabitants of these Countries, and all those who are therein, to give all honours, and all respects to such Ministers, and every where to be assisting unto them, their Servants, and Followers; and to endeavour that such Honour, Service, and curtesie be done unto them: charging and com<g ref="char:EOLhyphen"/>manding the first and second Councels of the Provincial Court, and also all Officers, Justices, and Magistrates, and all whom it may con<g ref="char:EOLhyphen"/>cern to proceed against the transgressors, by executing the penalties above mentioned, without favour or dissimulation.</p>
+            <closer>
+               <dateline>
+                  <hi>Do<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in the</hi> Hague <hi>under our great Seal, herein appending,</hi>
+                  <date>
+                     <hi>March,</hi> 29. 1651.</date>
+               </dateline>
+               <signed>By Order of the States, Subscribed, <hi>Herb. van Beaumont.</hi>
+               </signed> Published by Authority.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
